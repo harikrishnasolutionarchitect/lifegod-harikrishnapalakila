@@ -17,5 +17,5 @@ do
    pwd
    echo "" 
    ls -lrt
-   echo "${a}"
+   echo "For-loop Iteration --->>:  ${a}"
 done 
