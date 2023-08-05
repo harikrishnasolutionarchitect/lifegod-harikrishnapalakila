@@ -21,3 +21,5 @@ do
 done 
 
 echo "Adding 9 VM in Azure"
+
+echo "My enhance ments --- 100 SQL Servers added"
