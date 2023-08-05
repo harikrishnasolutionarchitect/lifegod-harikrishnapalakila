@@ -25,6 +25,9 @@ echo "Adding 5 VM in Azure"
 echo "Adding 9 VM in Azure"
 
 
+echo "My enhance ments --- 100 SQL Servers added"
+=======
+
 echo "BUG --- BUG -- BUG -- Need to work on bug"
 
 
