@@ -21,3 +21,4 @@ do
 done 
 
 echo "Adding 5 VM in Azure"
+echo "Adding 10 VM in Azure"
