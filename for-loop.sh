@@ -24,3 +24,6 @@ echo "Adding 9 VM in Azure"
 
 
 echo "BUG --- BUG -- BUG -- Need to work on bug"
+
+
+echo "Bug - fixed -- fixed --fixed"
