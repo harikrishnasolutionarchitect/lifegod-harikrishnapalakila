@@ -17,9 +17,11 @@ do
    pwd
    echo " ===================" 
    ls -lrt
-   echo "${a}"
+
+   echo "For-loop Iteration --->>:  ${a}"
 done 
 
+echo "Adding 5 VM in Azure"
 echo "Adding 9 VM in Azure"
 
 
@@ -69,3 +71,4 @@ usage
  if [ $? -ge 0 ]; then id && pwd ; fi 
 
  
+
