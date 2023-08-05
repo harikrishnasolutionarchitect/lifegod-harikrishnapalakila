@@ -20,4 +20,4 @@ do
    echo "${a}"
 done 
 
-echo "Adding 10 VM in Azure"
+echo "Adding 9 VM in Azure"
