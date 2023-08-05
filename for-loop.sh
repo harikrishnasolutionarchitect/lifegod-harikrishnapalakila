@@ -17,7 +17,7 @@ do
    pwd
    echo " ===================" 
    ls -lrt
-   echo "For-loop Iteration --->>:  ${a}"
+   echo "${a}"
 done 
 
-echo "Adding AWS - 6 VMS"
+echo "Adding 10 VM in Azure"
