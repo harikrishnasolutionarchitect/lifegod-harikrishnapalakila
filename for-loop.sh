@@ -56,3 +56,16 @@ fi
 }
 
 usage
+
+=========================================================================================================================================
+
+# find modified files from last 10 mins
+
+ find . -mmin -10 -exec ls -lrt {} \; 
+
+ echo $?
+
+ if [ $? -eq 0 ]; then echo "Some OS Level files has got changed" ; fi 
+ if [ $? -ge 0 ]; then id && pwd ; fi 
+
+ 
