@@ -17,5 +17,12 @@ do
    pwd
    echo " ===================" 
    ls -lrt
+<<<<<<< HEAD
    echo "For-loop Iteration --->>:  ${a}"
 done 
+=======
+   echo "${a}"
+done 
+
+echo "Adding 5 VM in Azure"
+>>>>>>> 0bbaf5e (Adding 5 VMs in Azure)
