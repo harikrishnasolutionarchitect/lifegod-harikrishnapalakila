@@ -16,7 +16,6 @@ do
    echo "==================="
    pwd
    echo " ===================" 
-   ls -lrt
 
    echo "For-loop Iteration --->>:  ${a}"
 done 
