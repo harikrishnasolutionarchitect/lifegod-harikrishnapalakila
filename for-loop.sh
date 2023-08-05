@@ -20,4 +20,4 @@ do
    echo "For-loop Iteration --->>:  ${a}"
 done 
 
-echo "Adding AWS - 5 VMS"
+echo "Adding AWS - 6 VMS"
