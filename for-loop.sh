@@ -19,3 +19,5 @@ do
    ls -lrt
    echo "For-loop Iteration --->>:  ${a}"
 done 
+
+echo "Adding AWS - 5 VMS"
