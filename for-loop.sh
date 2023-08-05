@@ -21,3 +21,6 @@ do
 done 
 
 echo "Adding 9 VM in Azure"
+
+
+echo "BUG --- BUG -- BUG -- Need to work on bug"
