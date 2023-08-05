@@ -19,3 +19,5 @@ do
    ls -lrt
    echo "${a}"
 done 
+
+echo "Adding 5 VM in Azure"
